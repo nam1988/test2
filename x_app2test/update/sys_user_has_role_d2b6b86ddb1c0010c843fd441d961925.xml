@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2019-10-04 17:07:46">
+<sys_user_has_role action="INSERT_OR_UPDATE">
+<granted_by display_value="">not-applicable</granted_by>
+<included_in_role display_value=""/>
+<included_in_role_instance display_value=""/>
+<inh_count/>
+<inh_map/>
+<inherited>false</inherited>
+<role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</role>
+<state>active</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-10-04 17:04:08</sys_created_on>
+<sys_id>d2b6b86ddb1c0010c843fd441d961925</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-10-04 17:04:08</sys_updated_on>
+<user display_value="git.insert ">c596b86ddb1c0010c843fd441d96191c</user>
+</sys_user_has_role>
+</unload>
